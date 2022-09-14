@@ -1,0 +1,7 @@
+#table,
+th,
+tr,
+td {
+    border: rgb(205, 202, 202) 2px solid;
+    padding: 10px;
+}

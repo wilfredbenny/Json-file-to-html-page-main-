@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Abcd",
+        "email": "Abcd@xyz.com",
+        "salary": "1000"
+    },
+    {
+        "name": "Efgh",
+        "email": "efgh@xyz.com",
+        "salary": "2000"
+    },
+    {
+        "name": "Jklm",
+        "email": "jklm@xyz.com",
+        "salary": "3000"
+    }
+]

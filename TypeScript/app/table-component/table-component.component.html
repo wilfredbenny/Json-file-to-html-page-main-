@@ -1,0 +1,16 @@
+<table style="margin: 20px;margin-top:40px;" id="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let table of jsonData">
+            <td>{{table.name}}</td>
+            <td>{{table.email}}</td>
+            <td>{{table.salary}}</td>
+        </tr>
+    </tbody>
+</table>
